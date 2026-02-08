@@ -18,7 +18,7 @@ A professional touch-screen dashboard for Kaspa cryptocurrency with integrated l
 
 ### Integrated Lottery Mining
 - Built-in KHeavyHash lottery miner
-- ~1.5-2.0 KH/s hashrate
+- ~1.0-1.5 KH/s hashrate
 - Real-time mining statistics
 - Block found celebration!
 
@@ -34,7 +34,7 @@ A professional touch-screen dashboard for Kaspa cryptocurrency with integrated l
 - Mobile-friendly design
 
 ### Professional Hardware
-- 4" 800x480 IPS touchscreen
+- 7" 800x480 IPS touchscreen
 - ESP32-S3 dual-core processor
 - WiFi connectivity
 - MicroSD card slot
@@ -72,7 +72,7 @@ KASDeck supports over-the-air (OTA) updates:
 
 | Spec | Value |
 |------|-------|
-| Display | 4" 800x480 IPS TFT |
+| Display | 7" 800x480 IPS TFT |
 | Processor | ESP32-S3 @ 240MHz |
 | Memory | 8MB PSRAM |
 | Storage | MicroSD (included) |
