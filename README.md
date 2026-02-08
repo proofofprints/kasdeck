@@ -1,4 +1,4 @@
-# KASDeck - Kaspa Lottery Miner Dashboard
+# KASDeck - Kaspa Lottery Miner and Dashboard
 
 ![Version](https://img.shields.io/badge/version-1.0.6-green.svg)
 ![Platform](https://img.shields.io/badge/platform-ESP32--S3-orange.svg)
@@ -51,7 +51,7 @@ A professional touch-screen dashboard for Kaspa cryptocurrency with integrated l
 2. Follow the setup wizard:
    - Connect to WiFi
    - Enter your Kaspa wallet address
-   - Select mining pool
+   - Select mining pool (recommended local modified node with low difficulty).
 3. Start mining!
 
 ### Web Access
