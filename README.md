@@ -33,7 +33,7 @@ A professional touch-screen dashboard for Kaspa cryptocurrency with integrated l
 - OTA firmware updates
 - Mobile-friendly design
 
-### Professional Hardware
+### Hardware
 - 7" 800x480 IPS touchscreen
 - ESP32-S3 dual-core processor
 - WiFi connectivity
@@ -44,7 +44,6 @@ A professional touch-screen dashboard for Kaspa cryptocurrency with integrated l
 ### What's Included
 - KASDeck device (pre-flashed)
 - MicroSD card with required files
-- Quick start guide
 
 ### First Boot
 1. Power on your KASDeck
